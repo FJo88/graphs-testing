@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  text-align: center;
+}
+#multiple{
+  background-color: rgb(215, 208, 208);
+}
+#modal{
+  background-color: rgb(255, 255, 246);
+}
